@@ -1,2 +1,5 @@
 jupyterlab==3.2.2
 jupyterlab-link-share
+numpy==1.16.*
+matplotlib==3.*
+scipy==1.7.2
