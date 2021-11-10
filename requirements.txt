@@ -1,4 +1,3 @@
-jpykernel>=6
 jupyterlab==3.2.2
 jupyterlab-link-share
 numpy==1.16.*
